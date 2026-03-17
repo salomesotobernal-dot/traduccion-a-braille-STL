@@ -33,14 +33,3 @@ with open("traduccion_braille.txt", "w", encoding="utf-8") as f:
 
     print("La traducción se ha guardado en 'traduccion_braille.txt'")
 
-# Crear carpeta
-
-    mkdir traductor_braille
-    cd traductor_braille
-
-# guardar código en archivo main.py inicializa git
-
-    git init
-    git add main.py
-git commit -m "Iteración 1 y 2: traductor básico a Braille"
-git add 
